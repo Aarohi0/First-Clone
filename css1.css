@@ -116,7 +116,7 @@ a{
 /* About Section */
 
  .about{
-    height: 350px;
+    height: 100vh;
     margin-top: 40px;
  }
 
